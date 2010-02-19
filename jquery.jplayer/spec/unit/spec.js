@@ -1,0 +1,4 @@
+
+describe '$.fn.jPlayer'
+
+end
